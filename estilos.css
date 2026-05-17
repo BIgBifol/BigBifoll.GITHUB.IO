@@ -1,0 +1,43 @@
+
+#pagina {
+    background-color: #f4f4f4;
+    font-family: Arial, sans-serif;
+    font-size: 16px; /* tamaño normal */
+    color: #333333;
+    padding: 20px;
+}
+#titulo {
+    color: #1e88e5;
+    font-size: 32px;
+    font-family: Verdana, sans-serif;
+    text-align: center;
+}
+#subtitulo {
+    color: #43a047;
+    font-size: 22px;
+    font-family: Georgia, serif;
+}
+#texto {
+    color: #555555;
+    font-size: 16px;
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
+#boton {
+    background-color: #ff9800;
+    color: white;
+    font-size: 16px;
+    font-family: Arial, sans-serif;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+}
+#contenedor {
+    background-color: white;
+    color: #222222;
+    font-size: 16px;
+    border: 2px solid #cccccc;
+    padding: 15px;
+    border-radius: 10px;
+}
